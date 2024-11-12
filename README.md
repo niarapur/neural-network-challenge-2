@@ -3,7 +3,7 @@ Module 19 challenge
 
 The task is to create a neural network that HR can use to predict whether employees are likely to leave the company. As HR believes some employees may be better suited to other departments, the model is built to also predict the department that best fits each employee. These two columns are predicted using a branched neural network.
 
-# DATA
+# Data
 the data source is 'https://static.bc-edx.com/ai/ail-v-1-0/m19/lms/datasets/attrition.csv' consisting of 1470 rows and the follwoing columns:
 
 Dataset
@@ -38,13 +38,13 @@ YearsWithCurrManager	18
 
 The values to be predicted include:
 
-'Department ' : 
+Department : 
 ---------------
 Human Resources	50
 Research & Development	717
 Sales	335
 
-Attrition
+Attrition :
 ---------
 No	934
 Yes	168
